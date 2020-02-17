@@ -16,7 +16,7 @@ https://github.io/KinuthiaN/Akan-Names
 #### License and Copyright Information
 This website is free to the public.
 
-#### Author (s) Information
+#### Author(s) Information
 My names is Geoffrey and, am a beginner in software development.
 
 #### BDD
