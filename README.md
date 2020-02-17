@@ -14,7 +14,7 @@ All you need is a computer and internet and link to the website to know your Aka
 https://github.io/KinuthiaN/Akan-Names
 
 #### License and Copyright Information
-This website is free to the public.
+This website is free and  open to the public.
 
 #### Author(s) Information
 My names is Geoffrey and, am a beginner in software development.
