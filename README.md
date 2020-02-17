@@ -5,7 +5,7 @@ It is a website that's used to know your Ghanian name.
 Geoffrey Kinuthia.
 
 ### About
-It is a website that tells you your Akan name after entering your details.
+It's a website that tells you your Akan name after entering your details.
 
 #### Instructions
 All you need is a computer and internet and link to the website to know your Akan name.
