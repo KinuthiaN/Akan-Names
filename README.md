@@ -11,7 +11,7 @@ It is a website that tells you your Akan name after entering your details.
 All you need is a computer and internet and link to the website to know your Akan name.
 
 #### Link To Github Pages
-https://github.io/KinuthiaN/Akan-Names
+https://github.io.KinuthiaN/Akan-Names
 
 #### License and Copyright Information
 This website is free and  open to the public.
