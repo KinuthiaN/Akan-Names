@@ -10,7 +10,7 @@ It is a website that tells you your Akan name after entering your details.
 #### Instructions
 All you need is a computer and internet to know your Akan name.
 
-#### Links To Github Pages
+#### Link To Github Pages
 https://github.io/KinuthiaN/Akan-Names
 
 #### License and Copyright Information
