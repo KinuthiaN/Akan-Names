@@ -26,4 +26,4 @@ This website is coded in Html and is given more functionality by Javascript.
 HTML,CSS and Javascript are the technologies used.
 
 #### Contact Information
-You can reach me through my github @KinuthiaN
+You can reach me through my github @KinuthiaN.
