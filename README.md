@@ -8,7 +8,7 @@ Geoffrey Kinuthia.
 It is a website that tells you your Akan name after entering your details.
 
 #### Instructions
-All you need is a computer and internet to know your Akan name.
+All you need is a computer and internet and link to the website to know your Akan name.
 
 #### Link To Github Pages
 https://github.io/KinuthiaN/Akan-Names
