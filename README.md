@@ -1,4 +1,4 @@
-# GHANIAN NAMES
+# AKAN NAMES
 It is a website that's used to know your Ghanian name.
 
 ## Authors
